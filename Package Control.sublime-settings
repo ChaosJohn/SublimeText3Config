@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"Alignment",
 		"Better Completion",
 		"BracketHighlighter",
@@ -16,6 +17,7 @@
 		"GitGutter",
 		"HTML-CSS-JS Prettify",
 		"HypnotoadSVN",
+		"Material Theme",
 		"Package Control",
 		"SFTP",
 		"SideBarEnhancements",
