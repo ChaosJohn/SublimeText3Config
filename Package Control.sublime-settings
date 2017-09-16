@@ -6,8 +6,11 @@
 	"installed_packages":
 	[
 		"A File Icon",
+		"Agila Theme",
 		"Alignment",
+		"All Autocomplete",
 		"Better Completion",
+		"Boxy Theme",
 		"BracketHighlighter",
 		"ColorPicker",
 		"ConvertToUTF8",
@@ -18,12 +21,17 @@
 		"HTML-CSS-JS Prettify",
 		"HypnotoadSVN",
 		"Material Theme",
+		"Materialize",
 		"Package Control",
+		"Predawn",
+		"Seti_UI",
 		"SFTP",
 		"SideBarEnhancements",
 		"SublimeLinter",
 		"SublimeREPL",
+		"Terminal",
 		"Theme - Soda",
-		"Tomorrow Color Schemes"
+		"Tomorrow Color Schemes",
+		"Tomorrow Night Italics Color Scheme"
 	]
 }
