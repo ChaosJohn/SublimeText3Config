@@ -4,9 +4,9 @@
 	[
 		"Better Completion",
 		"HypnotoadSVN",
+		"SideBarEnhancements",
 		"SublimeLinter",
-		"Vintage",
-    "SideBarEnhancements"
+		"Vintage"
 	],
 	"theme": "Boxy Tomorrow.sublime-theme"
 }
